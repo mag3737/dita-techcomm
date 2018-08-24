@@ -12,6 +12,7 @@
     interface. Often, a concept is an extended definition of a major abstraction such as a process
     or function. It might also have an example or a graphic, but generally the structure of a
     concept is fairly simple.</shortdesc>
+	<draft-comment author="Mag">This comment is for the DITA TC Github training demo</draft-comment>
   <prolog>
     <metadata>
       <keywords>
